@@ -1,0 +1,5 @@
+its new file i am creating
+a=10
+b=23
+c=55
+result = a+b+c
